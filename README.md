@@ -12,7 +12,7 @@ A comprehensive dataset of 9,981 aspect-sentiment pairs from 5,005 Urdu product 
 
 ## Files
 
-### Pars-ABSA Style Format (Recommended)
+### Urdu Style Format (Recommended)
 
 - `Urdu-Senti_all.txt` - Complete dataset (9,981 samples)
 - `Urdu-Senti_train.txt` - Training set (6,987 samples, 70%)
